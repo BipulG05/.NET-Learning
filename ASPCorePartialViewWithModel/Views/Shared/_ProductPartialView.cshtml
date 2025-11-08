@@ -1,0 +1,12 @@
+﻿@model ASPCorePartialViewWithModel.Models.Product
+
+<div class="card" style="width: 18rem;">
+    <img src="@(Model.Image)" style="width:17.8rem;max-height:14rem;padding:  0.1rem" asp-append-version="true" class="card-img-top" alt="@Model.Name">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Description</p>
+        <p class="text-success fw-bold">₹@Model.Price</p>
+        <a href="#" class="btn btn-primary">View Product</a>
+    </div>
+</div>
+
