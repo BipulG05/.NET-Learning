@@ -118,6 +118,40 @@
 
     ⏱ 1 hr 30 min — Build/deploy automation using DevOps pipelines.
 
+
+    phase 1
+_____________________________
+1. https://www.youtube.com/watch?v=AhAxLiGC7Pc
+2. https://www.youtube.com/watch?v=yF9SwL0p0Y0
+3. https://www.youtube.com/watch?v=f63mo1ZRobM
+4. https://www.youtube.com/watch?v=z83Tlwh7FDc
+5. https://www.youtube.com/watch?v=qBTe6uHJS_Y
+6. https://www.youtube.com/watch?v=f63mo1ZRobM
+7. https://www.youtube.com/watch?v=AopeJjkcRvU
+
+Phase 2
+_________________________________________
+
+
+1. https://www.youtube.com/watch?v=XvyTLjG9dnk
+2. https://www.youtube.com/watch?v=lOCUFuTyvaE
+3. https://www.youtube.com/watch?v=SryQxUeChMc
+
+Phase 3
+_________________________________________
+
+1. https://www.youtube.com/watch?v=_4HNeZkrBRM
+2. https://www.youtube.com/watch?v=1Ym3e-9bDGE
+3. https://www.youtube.com/watch?v=E6sUJWwZLwE
+
+Phase 4
+_________________________________________
+
+1. https://www.youtube.com/watch?v=E6sUJWwZLwE
+2. https://www.youtube.com/watch?v=b8fFRX0T38M
+
+
+
     🎯 Summary — Your Master Plan
     Phase	Duration	Focus
     1	Weeks 1–3	Fundamentals, syntax, environment
