@@ -150,7 +150,114 @@ _________________________________________
 1. https://www.youtube.com/watch?v=E6sUJWwZLwE
 2. https://www.youtube.com/watch?v=b8fFRX0T38M
 
+AS PER MY PROJECT LEARNING
+------------------------------------------------------------------------------------------------------------------
+✅ 1. Core Architecture Concepts (Controllers, Routing, DI, Middleware, Config, Logging)
+🔹 ASP.NET Core Fundamentals (.NET 8) — Full Beginner Course
 
+✔ Covers Controllers, Routing, Middleware, DI, Logging, appsettings.json
+▶️ https://www.youtube.com/watch?v=f63mo1ZRobM
+
+(Evan Gudmestad — very clear explanations)
+
+✅ 2. API Design & Communication (REST, Model Binding, Validation, Async, Global Error Handling)
+🔹 Build Real-World .NET 8 Web API (Complete Guide)
+
+✔ REST, DTOs, Model Binding, Validation, Action Results
+✔ Async programming
+✔ Error handling patterns
+▶️ https://www.youtube.com/watch?v=_4HNeZkrBRM
+
+(Code Unparalleled — gold-standard explanation)
+
+✅ 3. Data Access & Persistence (EF Core, Migrations, Repository Pattern, DTOs, AutoMapper)
+🔹 Entity Framework Core 8 Full Crash Course (Code-First + Migrations)
+
+✔ EF Core DbContext, DbSet
+✔ Code-First migrations
+✔ CRUD
+▶️ https://www.youtube.com/watch?v=XvyTLjG9dnk
+
+🔹 Repository Pattern + Service Layer + EF Core
+
+✔ Clean data access
+✔ Repository + Unit of Work
+▶️ https://www.youtube.com/watch?v=lOCUFuTyvaE
+
+🔹 AutoMapper Tutorial for .NET APIs
+
+✔ DTO → Entity mapping the correct way
+▶️ https://www.youtube.com/watch?v=t1M5Tchr3RU
+
+✅ 4. Security (CORS, JWT, Identity Roles, Data Protection)
+🔹 JWT Authentication in ASP.NET Core 8 Web API (Best Free Guide)
+
+✔ JWT Tokens
+✔ Register/Login
+✔ Token validation middleware
+▶️ https://www.youtube.com/watch?v=1Ym3e-9bDGE
+
+🔹 ASP.NET Core Identity + Roles + Authorization
+
+✔ Role-based APIs
+✔ Identity + EF
+▶️ https://www.youtube.com/watch?v=E6sUJWwZLwE
+
+🔹 CORS Explained Clearly (.NET API + React)
+
+▶️ https://www.youtube.com/watch?v=9yFhW0GpIgE
+
+✅ 5. Architecture & Patterns (Layered Architecture, Services, DI, DTOs, Folder Structure)
+🔹 Clean Architecture in ASP.NET Core (.NET 8)
+
+✔ Layered structure: Controllers → Services → Repositories
+✔ DTOs
+✔ DI setup
+✔ Proper folder structure
+▶️ https://www.youtube.com/watch?v=E6sUJWwZLwE
+
+🔹 ASP.NET Core Project Structure Best Practices
+
+▶️ https://www.youtube.com/watch?v=H4UA3j8jG6c
+
+✅ 6. Additional Tools & Enhancements (Swagger, Serilog, Health Checks, Unit Testing, Caching)
+🔹 Swagger/OpenAPI in .NET API — Full Guide
+
+▶️ https://www.youtube.com/watch?v=hPz8xP7Znfw
+
+🔹 Serilog in ASP.NET Core (File Logging, DB Logging)
+
+▶️ https://www.youtube.com/watch?v=4X8LPgkuQtk
+
+🔹 Health Checks in ASP.NET Core
+
+▶️ https://www.youtube.com/watch?v=SIQeUeJBpbU
+
+🔹 Unit Testing ASP.NET Core Web API
+
+▶️ https://www.youtube.com/watch?v=I7RIaziZRWw
+
+🔹 Caching (In-Memory + Distributed + Redis)
+
+▶️ https://www.youtube.com/watch?v=ehKqa-YpPks
+
+✅ 7. Integration with React (CORS, Fetch/Axios, JWT Storage)
+🔹 React + .NET 8 Web API Full Stack Tutorial
+
+✔ CORS
+✔ Connect React → API
+✔ Fetch/Axios
+✔ JWT flow
+▶️ https://www.youtube.com/watch?v=H39Q1TonIh0
+
+📌 BONUS — Best Single Full Course That Covers 70% of Everything Above
+
+If you want ONE VIDEO to start with:
+
+⭐ ASP.NET Core Web API + EF Core + Clean Architecture (Patrick God)
+
+▶️ https://www.youtube.com/watch?v=b8fFRX0T38M
+------------------------------------------------------------------------------------------------------------------
 
     🎯 Summary — Your Master Plan
     Phase	Duration	Focus
